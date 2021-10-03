@@ -1,2 +1,2 @@
 # hello-world
-Start up repository
+Start up repository and following the guide
